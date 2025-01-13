@@ -1,9 +1,5 @@
 CADDY WEBSERVER DOCUMENTATION
 
-
-
-
-
 ## Description of caddy
 
 What is caddy?
@@ -12,8 +8,6 @@ What is caddy?
 
        At  its  core, Caddy merely manages configuration. Modules are plugged in statically at compile-time to provide useful functionality. Caddy's stan‐
        dard distribution includes common modules to serve HTTP, TLS, and PKI applications, including the automation of certificates.
-
-
 
 ## Installation
 
